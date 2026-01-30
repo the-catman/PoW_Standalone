@@ -1,4 +1,3 @@
-pow_cu.exe
-pow.exe
+*.exe
 
-/.vscode/
+.vscode/
